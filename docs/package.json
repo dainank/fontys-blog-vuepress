@@ -1,0 +1,19 @@
+{
+  "name": "fontys-blog-vuepress",
+  "version": "0.0.1",
+  "description": "Basic blockchain blog post.",
+  "main": "index.js",
+  "authors": {
+    "name": "Dainank",
+    "email": "whelbe@outlook.com"
+  },
+  "repository": "https://github.com/dainank/fontys-blog-vuepress/fontys-blog-vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
