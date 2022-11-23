@@ -49,11 +49,12 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
-          collapsable: false,
+          title: '23/11/2022 - Blockchain Basics',
+          collapsable: true,
           children: [
             '',
-            'using-vue',
+            'key-elements',
+            'sources', // final
           ]
         }
       ],
