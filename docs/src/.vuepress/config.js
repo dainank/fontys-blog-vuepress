@@ -34,8 +34,8 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Featured Article',
+        link: '/article-2/',
       },
       {
         text: 'GitHub',
@@ -47,7 +47,7 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/article-2/': [
         {
           title: '23/11/2022 - Blockchain Basics',
           collapsable: true,

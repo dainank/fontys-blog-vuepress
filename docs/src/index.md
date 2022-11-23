@@ -3,7 +3,7 @@ home: true
 heroImage: https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/photography/a6/eb/bld151782.component.l.ts=1629121711384.jpg/content/adobe-cms/us/en/topics/what-is-blockchain/jcr:content/root/leadspace
 tagline: Blockchain Basics!
 actionText: Featured Article →
-actionLink: /guide/
+actionLink: /article-2/
 features:
 - title: Example Article (1)
   details: Example Description (1)
