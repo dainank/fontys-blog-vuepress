@@ -54,6 +54,7 @@ module.exports = {
           children: [
             '',
             'key-elements',
+            'blockchain-functions',
             'sources', // final
           ]
         }
