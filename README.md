@@ -1,6 +1,7 @@
 # Fontys Blog
 
 # Quick Start
+Please note that this should be able to run on any version of node, but if you do face problems, please you this version: https://nodejs.org/download/release/v16.18.1/
 ```
 git clone https://github.com/dainank/fontys-blog-vuepress.git
 cd ./fontys-blog-vuepress/docs
