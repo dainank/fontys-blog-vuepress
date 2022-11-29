@@ -3,7 +3,7 @@
 # Quick Start
 ```
 git clone https://github.com/dainank/fontys-blog-vuepress.git
-cd docs
+cd ./fontys-blog-vuepress/docs
 npm i
 npm run dev
 ```
