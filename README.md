@@ -13,8 +13,8 @@ browse -> http://localhost:8080/article-2/
 ## Docs
 https://vuepress.vuejs.org/guide/getting-started.html#quick-start
 
-# Deadlines
-## November 28: hand in target audience, type of publication, title, abstract/introduction.
+## Deadlines
+### November 28: hand in target audience, type of publication, title, abstract/introduction.
 **Format**: '*Blog*'
 	- personal experience
 	- informal
