@@ -49,7 +49,7 @@ module.exports = {
     sidebar: {
       '/article-2/': [
         {
-          title: '23/11/2022 - Blockchain Basics',
+          title: '23/11/2022 - Struggling to properly understand Blockchain? Here\'s a comprehensive explanation of what Blockchain technology is.',
           collapsable: true,
           children: [
             '',
